@@ -19,4 +19,6 @@ Ctrl - a + : + resize-pane -D -U -L -R
 :vsp                       split vertically  
 :sp                        split horizontally  
 Ctrl - w + h,j,k,l         moving between window  
-%                          jump to matching bracket
+%                          jump to matching bracket  
+p                           macro  
+@                           use macro
